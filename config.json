@@ -1,6 +1,6 @@
 {
-    "ownerNumber": ["94764497078@s.whatsapp.net","94764497078@s.whatsapp.net"],
-    "ownerName": "SANDARU",
+    "ownerNumber": ["947421350i5@s.whatsapp.net","94764497078@s.whatsapp.net"],
+    "ownerName": "pabasara",
     "instagram" : "https://instagram.com/nicetry.zaa._",
     "botName": "SANDARU MD ",
     "footer": "api.zeeoneofc.xyz",
@@ -8,7 +8,7 @@
     "fotoDonasi": "./qris.jpg",
     "pathimg": "./Haruka.jpg",
     "BotKey": "VdFlEL76",
-    "auto_welcomeMsg": true,
+    "auto_welcomeMsg": falas,
     "auto_leaveMsg": true,    
     "autobio": false,
     "anticall": true,
